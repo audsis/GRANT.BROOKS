@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         KrunkCheat
-// @namespace    https://discord.gg/BeyH5Us
+// @name         GRANT.BROOKS
+// @namespace    grant.brooks
 // @version      1.1
-// @description  Krunker.io Cheat - ESP, Aimbot, Spinbot, Bhop, and All Skins
-// @author       Lemons
+// @description  [GRANT.BROOKS] WIN EVERY HVH
+// @author       AUDSIS, L4J AND GRANT TYSON BROOKS
 // @match        *://krunker.io/*
 // @run-at       document-start
 // @grant        none
